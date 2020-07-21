@@ -78,4 +78,4 @@ This project that we are attempting will also have a rich educative and social i
 * [Getting started with MATLAB](https://matlabacademy.mathworks.com/R2020a/portal.html?course=gettingstarted)
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
 
-
+Note: The shareable documentation can be accessed [here](https://docs.google.com/document/d/1FCTf0pJyEE-2y5jvIvyW-3en3OWCXYvgDuQb6fAg640/edit?usp=sharing) 
