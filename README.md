@@ -59,8 +59,8 @@ This project that we are attempting will also have a rich educative and social i
 
 ## People
 * Yatin Azad *(Mentor)*
-* Debaditya Bhattacharya
 * Ragha Abhinaya M
+* Debaditya Bhattacharya
 * Bhuvan N
 * Kunal Singh
 * Vatsal Karwa
